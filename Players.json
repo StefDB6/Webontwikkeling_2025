@@ -7,12 +7,12 @@
       "age": 23,
       "isActive": true,
       "birthDate": "2001-06-19",
-      "imageUrl": "https://liquipedia.net/commons/images/thumb/a/ac/TSMbeauloDHV19.jpg/900px-TSMbeauloDHV19.jpg",
+      "imageUrl": "https://raw.githubusercontent.com/StefDB6/Webontwikkeling_2025/refs/heads/main/Images/Beaulo.png",
       "formerteams": ["TSM"],
       "team": {
         "id": "TEAM-001",
         "name": "DarkZero",
-        "teamLogoUrl": "https://liquipedia.net/commons/images/4/4e/DarkZero_2023_full_darkmode.png",
+        "teamLogoUrl": "https://raw.githubusercontent.com/StefDB6/Webontwikkeling_2025/refs/heads/main/Images/DZ_Logo.png",
         "foundedYear": 2018,
         "founder": "Zach Matula",
         "region": "North America"
@@ -26,12 +26,12 @@
       "age": 19, 
       "isActive": true,
       "birthDate": "2005-08-15",
-      "imageUrl": "https://imgs.search.brave.com/cWpUK6o-U8zDccNu0y0KkH5bI7E0__HVUeYMPlQjDrU/rs:fit:500:0:0:0/g:ce/aHR0cHM6Ly9zdGF0/aWMtZXNwb3J0cy51/Ymlzb2Z0LmNvbS9l/c3BvcnRzLXBsYXRm/b3JtL2NvbW1vbi9t/ZW1iZXJzLzFlY2Ey/MzMzLWZhMWYtNDMy/ZS1iMjA0LTVjYjI2/NTIwNDU2My5wbmc",
+      "imageUrl": "https://raw.githubusercontent.com/StefDB6/Webontwikkeling_2025/refs/heads/main/Images/Kobelax.png",
       "formerteams": ["MKERS", "Envy"],
       "team": {
         "id": "TEAM-001",
         "name": "DarkZero",
-        "teamLogoUrl": "https://liquipedia.net/commons/images/4/4e/DarkZero_2023_full_darkmode.png",
+        "teamLogoUrl": "https://raw.githubusercontent.com/StefDB6/Webontwikkeling_2025/refs/heads/main/Images/DZ_Logo.png",
         "foundedYear": 2018,
         "founder": "Zach Matula",
         "region": "North America"
@@ -45,12 +45,12 @@
         "age": 23, 
         "isActive": true,
         "birthDate": "2002-02-04",
-        "imageUrl": "https://imgs.search.brave.com/cWpUK6o-U8zDccNu0y0KkH5bI7E0__HVUeYMPlQjDrU/rs:fit:500:0:0:0/g:ce/aHR0cHM6Ly9zdGF0/aWMtZXNwb3J0cy51/Ymlzb2Z0LmNvbS9l/c3BvcnRzLXBsYXRm/b3JtL2NvbW1vbi9t/ZW1iZXJzLzFlY2Ey/MzMzLWZhMWYtNDMy/ZS1iMjA0LTVjYjI2/NTIwNDU2My5wbmc",
+        "imageUrl": "https://raw.githubusercontent.com/StefDB6/Webontwikkeling_2025/refs/heads/main/Images/njr.png",
         "formerteams": ["Disrupt Gaming"],
         "team": {
           "id": "TEAM-001",
           "name": "DarkZero",
-          "teamLogoUrl": "https://liquipedia.net/commons/images/4/4e/DarkZero_2023_full_darkmode.png",
+          "teamLogoUrl": "https://raw.githubusercontent.com/StefDB6/Webontwikkeling_2025/refs/heads/main/Images/DZ_Logo.png",
           "foundedYear": 2018,
           "founder": "Zach Matula",
           "region": "North America"
