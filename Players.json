@@ -1,0 +1,59 @@
+[
+    {
+      "id": "001",
+      "IGN": "Beaulo",
+      "name": "Jason Doty",
+      "description": "Beaulo is one of the most famous R6S pro's of all time, popular for his fantastic aim and chill personality.",
+      "age": 23,
+      "isActive": true,
+      "birthDate": "2001-06-19",
+      "imageUrl": "https://liquipedia.net/commons/images/thumb/a/ac/TSMbeauloDHV19.jpg/900px-TSMbeauloDHV19.jpg",
+      "formerteams": ["TSM"],
+      "team": {
+        "id": "TEAM-001",
+        "name": "DarkZero",
+        "teamLogoUrl": "https://liquipedia.net/commons/images/4/4e/DarkZero_2023_full_darkmode.png",
+        "foundedYear": 2018,
+        "founder": "Zach Matula",
+        "region": "North America"
+      }
+    },
+    {
+      "id": "002",
+      "IGN": "Kobelax",
+      "name": "Elian Rodriguez",
+      "description": "An indie rock band hailing from Austin, Texas, known for their gritty guitar riffs and raw, emotional lyrics.",
+      "age": 19, 
+      "isActive": true,
+      "birthDate": "2005-08-15",
+      "imageUrl": "https://imgs.search.brave.com/cWpUK6o-U8zDccNu0y0KkH5bI7E0__HVUeYMPlQjDrU/rs:fit:500:0:0:0/g:ce/aHR0cHM6Ly9zdGF0/aWMtZXNwb3J0cy51/Ymlzb2Z0LmNvbS9l/c3BvcnRzLXBsYXRm/b3JtL2NvbW1vbi9t/ZW1iZXJzLzFlY2Ey/MzMzLWZhMWYtNDMy/ZS1iMjA0LTVjYjI2/NTIwNDU2My5wbmc",
+      "formerteams": ["MKERS", "Envy"],
+      "team": {
+        "id": "TEAM-001",
+        "name": "DarkZero",
+        "teamLogoUrl": "https://liquipedia.net/commons/images/4/4e/DarkZero_2023_full_darkmode.png",
+        "foundedYear": 2018,
+        "founder": "Zach Matula",
+        "region": "North America"
+      }
+    },
+    {
+        "id": "002",
+        "IGN": "njr",
+        "name": "Nick Rapier",
+        "description": "Nick 'njr' Rapier (born February 4, 2002) is an American Rainbow Six Siege player who is currently playing as a flex for DarkZero.",
+        "age": 23, 
+        "isActive": true,
+        "birthDate": "2002-02-04",
+        "imageUrl": "https://imgs.search.brave.com/cWpUK6o-U8zDccNu0y0KkH5bI7E0__HVUeYMPlQjDrU/rs:fit:500:0:0:0/g:ce/aHR0cHM6Ly9zdGF0/aWMtZXNwb3J0cy51/Ymlzb2Z0LmNvbS9l/c3BvcnRzLXBsYXRm/b3JtL2NvbW1vbi9t/ZW1iZXJzLzFlY2Ey/MzMzLWZhMWYtNDMy/ZS1iMjA0LTVjYjI2/NTIwNDU2My5wbmc",
+        "formerteams": ["Disrupt Gaming"],
+        "team": {
+          "id": "TEAM-001",
+          "name": "DarkZero",
+          "teamLogoUrl": "https://liquipedia.net/commons/images/4/4e/DarkZero_2023_full_darkmode.png",
+          "foundedYear": 2018,
+          "founder": "Zach Matula",
+          "region": "North America"
+        }
+      }
+  ]
