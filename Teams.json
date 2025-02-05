@@ -1,11 +1,11 @@
 [
     {
-    "id": "TEAM-001",
-    "name": "DarkZero",
-    "labelLogoUrl": "https://raw.githubusercontent.com/StefDB6/Webontwikkeling_2025/refs/heads/main/Images/DZ_Logo.png",
-    "foundedYear": 2018,
-    "manager": "Zach Matula",
-    "region": "North America"
+        "id": "TEAM-001",
+        "name": "DarkZero",
+        "labelLogoUrl": "https://raw.githubusercontent.com/StefDB6/Webontwikkeling_2025/refs/heads/main/Images/DZ_Logo.png",
+        "foundedYear": 2018,
+        "manager": "Zach Matula",
+        "region": "North America"
     },
     {
         "id": "TEAM-002",
