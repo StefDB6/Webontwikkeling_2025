@@ -1,6 +1,6 @@
 [
     {
-      "id": "PLY-001",
+      "id": "PLAYER-001",
       "IGN": "Beaulo",
       "name": "Jason Doty",
       "description": "Beaulo is one of the most famous R6S pro's of all time, popular for his fantastic aim and chill personality.",
@@ -20,7 +20,7 @@
       }
     },
     {
-      "id": "PLY-002",
+      "id": "PLAYER-002",
       "IGN": "Kobelax",
       "name": "Elian Rodriguez",
       "description": "Elian 'Kobelax' Rodriguez (born August 15, 2005) is a Dominican/American Rainbow Six Siege player who is currently playing as an entry fragger for DarkZero.",
@@ -40,7 +40,7 @@
       }
     },
     {
-      "id": "PLY-003",
+      "id": "PLAYER-003",
       "IGN": "njr",
       "name": "Nick Rapier",
       "description": "Nick 'njr' Rapier (born February 4, 2002) is an American Rainbow Six Siege player who is currently playing as a flex for DarkZero.",
@@ -60,7 +60,7 @@
       }
     },
     {
-      "id": "PLY-004",
+      "id": "PLAYER-004",
       "IGN": "Soulz1",
       "name": "Lucas Schinke",
       "description": "Lucas 'soulz1' Schinke (born January 5, 2001) is a Brazilian Rainbow Six Siege player who is currently playing as a support for FaZe Clan.",
@@ -80,7 +80,7 @@
       }
     },
     {
-      "id": "PLY-005",
+      "id": "PLAYER-005",
       "IGN": "VITAKING",
       "name": "Victor Santos",
       "description": "Victor 'VITAKING' Santos (born December 12, 2001) is a Brazilian Rainbow Six Siege player who is currently playing as an in-game leader for FaZe Clan.",
@@ -100,7 +100,7 @@
       }
     },
     {
-      "id": "PLY-006",
+      "id": "PLAYER-006",
       "IGN": "Shaiiko",
       "name": "Stéphane Lebleu",
       "description": "Stéphane 'Shaiiko' Lebleu (born December 15, 1998) is a French Rainbow Six Siege player who is currently playing as an entry fragger for Team BDS.",
@@ -120,7 +120,7 @@
       }
     },
     {
-      "id": "PLY-007",
+      "id": "PLAYER-007",
       "IGN": "LikEfac",
       "name": "Théo Mariano",
       "description": "Théo 'LikEfac' Mariano (born June 6, 2003) is a French Rainbow Six Siege player who is currently playing for Team BDS.",
@@ -140,7 +140,7 @@
       }
     },
     {
-      "id": "PLY-008",
+      "id": "PLAYER-008",
       "IGN": "Solotov",
       "name": "Fatih Türker",
       "description": "Fatih 'Solotov' Türker (born April 19, 2001) is a Turkish Rainbow Six Siege player who is currently playing for Team BDS.",
@@ -160,7 +160,7 @@
       }
     },
     {
-      "id": "PLY-009",
+      "id": "PLAYER-009",
       "IGN": "nesk",
       "name": "André Oliveira",
       "description": "André 'nesk' Oliveira (born March 16, 1995) is a Brazilian Rainbow Six Siege player who is currently playing as an entry fragger for Team Liquid. He is a former professional Battlefield 4 player.",
@@ -180,7 +180,7 @@
       }
     },
     {
-      "id": "PLY-010",
+      "id": "PLAYER-010",
       "IGN": "Lagonis",
       "name": "Lorenzo Volpi",
       "description": "Lorenzo 'Lagonis' Volpi (born January 10, 2002) is a Brazilian Rainbow Six Siege player who is currently playing as an in-game leader for Team Liquid.",
