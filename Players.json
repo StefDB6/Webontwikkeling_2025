@@ -94,6 +94,7 @@
         "region": "South America"
       }
     },
+    /////////////////////////////////////////////////
     {
       "id": "006",
       "IGN": "VITAKING",
@@ -105,12 +106,50 @@
       "imageUrl": "https://raw.githubusercontent.com/StefDB6/Webontwikkeling_2025/refs/heads/main/Images/VITAKING.png",
       "formerteams": ["MKERS", "Envy"],
       "team": {
-        "id": "TEAM-002",
-        "name": "Faze Clan",
-        "labelLogoUrl": "https://raw.githubusercontent.com/StefDB6/Webontwikkeling_2025/refs/heads/main/Images/Faze_Clan_Logo.png",
-        "foundedYear": 2011,
-        "manager": "Leando Portela",
-        "region": "South America"
+        "id": "TEAM-003",
+        "name": "BDS",
+        "teamLogoUrl": "https://raw.githubusercontent.com/StefDB6/Webontwikkeling_2025/refs/heads/main/Images/BDS_Logo.png",
+        "foundedYear": 2019,
+        "manager": "Alexia Chapus",
+        "region": "Europe"
+      }
+    },
+    {
+      "id": "007",
+      "IGN": "VITAKING",
+      "name": "Victor Santos",
+      "description": "Victor 'VITAKING' Santos (born December 12, 2001) is a Brazilian Rainbow Six Siege player who is currently playing as an in-game leader for FaZe Clan.",
+      "age": 23, 
+      "isActive": true,
+      "birthDate": "2001-12-12",
+      "imageUrl": "https://raw.githubusercontent.com/StefDB6/Webontwikkeling_2025/refs/heads/main/Images/VITAKING.png",
+      "formerteams": ["MKERS", "Envy"],
+      "team": {
+        "id": "TEAM-003",
+        "name": "BDS",
+        "teamLogoUrl": "https://raw.githubusercontent.com/StefDB6/Webontwikkeling_2025/refs/heads/main/Images/BDS_Logo.png",
+        "foundedYear": 2019,
+        "manager": "Alexia Chapus",
+        "region": "Europe"
+      }
+    },
+    {
+      "id": "008",
+      "IGN": "VITAKING",
+      "name": "Victor Santos",
+      "description": "Victor 'VITAKING' Santos (born December 12, 2001) is a Brazilian Rainbow Six Siege player who is currently playing as an in-game leader for FaZe Clan.",
+      "age": 23, 
+      "isActive": true,
+      "birthDate": "2001-12-12",
+      "imageUrl": "https://raw.githubusercontent.com/StefDB6/Webontwikkeling_2025/refs/heads/main/Images/VITAKING.png",
+      "formerteams": ["MKERS", "Envy"],
+      "team": {
+        "id": "TEAM-003",
+        "name": "BDS",
+        "teamLogoUrl": "https://raw.githubusercontent.com/StefDB6/Webontwikkeling_2025/refs/heads/main/Images/BDS_Logo.png",
+        "foundedYear": 2019,
+        "manager": "Alexia Chapus",
+        "region": "Europe"
       }
     },
   ]
