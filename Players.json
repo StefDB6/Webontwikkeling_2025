@@ -7,6 +7,7 @@
       "age": 23,
       "isActive": true,
       "birthDate": "2001-06-19",
+      "teamJoinDate": "2023-12-03",
       "imageUrl": "https://raw.githubusercontent.com/StefDB6/Webontwikkeling_2025/refs/heads/main/Images/Beaulo.png",
       "formerteams": ["TSM"],
       "team": {
@@ -22,10 +23,11 @@
       "id": "002",
       "IGN": "Kobelax",
       "name": "Elian Rodriguez",
-      "description": "An indie rock band hailing from Austin, Texas, known for their gritty guitar riffs and raw, emotional lyrics.",
+      "description": "Elian 'Kobelax' Rodriguez (born August 15, 2005) is a Dominican/American Rainbow Six Siege player who is currently playing as an entry fragger for DarkZero.",
       "age": 19, 
       "isActive": true,
       "birthDate": "2005-08-15",
+      "teamJoinDate": "2024-08-31",
       "imageUrl": "https://raw.githubusercontent.com/StefDB6/Webontwikkeling_2025/refs/heads/main/Images/Kobelax.png",
       "formerteams": ["MKERS", "Envy"],
       "team": {
@@ -45,6 +47,7 @@
         "age": 23, 
         "isActive": true,
         "birthDate": "2002-02-04",
+        "teamJoinDate": "2021-02-24",
         "imageUrl": "https://raw.githubusercontent.com/StefDB6/Webontwikkeling_2025/refs/heads/main/Images/njr.png",
         "formerteams": ["Disrupt Gaming"],
         "team": {
@@ -64,6 +67,7 @@
       "age": 24, 
       "isActive": true,
       "birthDate": "2001-01-05",
+      "teamJoinDate": "2021-03-04",
       "imageUrl": "https://raw.githubusercontent.com/StefDB6/Webontwikkeling_2025/refs/heads/main/Images/Soulz1.png",
       "formerteams": ["MIBR", "Singularity", "eLevate"],
       "team": {
@@ -83,6 +87,7 @@
       "age": 23, 
       "isActive": true,
       "birthDate": "2001-12-12",
+      "teamJoinDate": "2023-01-30",
       "imageUrl": "https://raw.githubusercontent.com/StefDB6/Webontwikkeling_2025/refs/heads/main/Images/Kobelax.png",
       "formerteams": ["Magic Squad", "Escolinha do bubu", "Isurus"],
       "team": {
@@ -94,17 +99,17 @@
         "region": "South America"
       }
     },
-    /////////////////////////////////////////////////
     {
       "id": "006",
-      "IGN": "VITAKING",
-      "name": "Victor Santos",
-      "description": "Victor 'VITAKING' Santos (born December 12, 2001) is a Brazilian Rainbow Six Siege player who is currently playing as an in-game leader for FaZe Clan.",
-      "age": 23, 
+      "IGN": "Shaiiko",
+      "name": "Stéphane Lebleu",
+      "description": "Stéphane 'Shaiiko' Lebleu (born December 15, 1998) is a French Rainbow Six Siege player who is currently playing as an entry fragger for Team BDS.",
+      "age": 26,
       "isActive": true,
-      "birthDate": "2001-12-12",
-      "imageUrl": "https://raw.githubusercontent.com/StefDB6/Webontwikkeling_2025/refs/heads/main/Images/VITAKING.png",
-      "formerteams": ["MKERS", "Envy"],
+      "birthDate": "1998-12-15",
+      "teamJoinDate": "2019-05-30",
+      "imageUrl": "https://raw.githubusercontent.com/StefDB6/Webontwikkeling_2025/refs/heads/main/Images/Shaiiko.png",
+      "formerteams": ["beGenius ESC", "Aera eSport"],
       "team": {
         "id": "TEAM-003",
         "name": "BDS",
@@ -116,14 +121,15 @@
     },
     {
       "id": "007",
-      "IGN": "VITAKING",
-      "name": "Victor Santos",
-      "description": "Victor 'VITAKING' Santos (born December 12, 2001) is a Brazilian Rainbow Six Siege player who is currently playing as an in-game leader for FaZe Clan.",
-      "age": 23, 
+      "IGN": "LikEfac",
+      "name": "Théo Mariano",
+      "description": "Théo 'LikEfac' Mariano (born June 6, 2003) is a French Rainbow Six Siege player who is currently playing for Team BDS.",
+      "age": 21, 
       "isActive": true,
-      "birthDate": "2001-12-12",
-      "imageUrl": "https://raw.githubusercontent.com/StefDB6/Webontwikkeling_2025/refs/heads/main/Images/VITAKING.png",
-      "formerteams": ["MKERS", "Envy"],
+      "birthDate": "2003-06-06",
+      "teamJoinDate": "2022-09-12",
+      "imageUrl": "https://raw.githubusercontent.com/StefDB6/Webontwikkeling_2025/refs/heads/main/Images/LikeEfac.png",
+      "formerteams": ["Sked Esport", "Valor", "Make Your Destiny", "WanteD eSport"],
       "team": {
         "id": "TEAM-003",
         "name": "BDS",
@@ -135,14 +141,15 @@
     },
     {
       "id": "008",
-      "IGN": "VITAKING",
-      "name": "Victor Santos",
-      "description": "Victor 'VITAKING' Santos (born December 12, 2001) is a Brazilian Rainbow Six Siege player who is currently playing as an in-game leader for FaZe Clan.",
+      "IGN": "Solotov",
+      "name": "Fatih Türker",
+      "description": "Fatih 'Solotov' Türker (born April 19, 2001) is a Turkish Rainbow Six Siege player who is currently playing for Team BDS.",
       "age": 23, 
       "isActive": true,
-      "birthDate": "2001-12-12",
-      "imageUrl": "https://raw.githubusercontent.com/StefDB6/Webontwikkeling_2025/refs/heads/main/Images/VITAKING.png",
-      "formerteams": ["MKERS", "Envy"],
+      "birthDate": "2001-04-19",
+      "teamJoinDate": "2024-03-05",
+      "imageUrl": "https://raw.githubusercontent.com/StefDB6/Webontwikkeling_2025/refs/heads/main/Images/Solotov.png",
+      "formerteams": ["MNM Gaming", "GoSkilla"],
       "team": {
         "id": "TEAM-003",
         "name": "BDS",
@@ -152,4 +159,44 @@
         "region": "Europe"
       }
     },
+    {
+      "id": "009",
+      "IGN": "nesk",
+      "name": "André Oliveira",
+      "description": "André 'nesk' Oliveira (born March 16, 1995) is a Brazilian Rainbow Six Siege player who is currently playing as an entry fragger for Team Liquid. He is a former professional Battlefield 4 player.",
+      "age": 29, 
+      "isActive": true,
+      "birthDate": "1995-03-16",
+      "teamJoinDate": "2018-01-15",
+      "imageUrl": "https://raw.githubusercontent.com/StefDB6/Webontwikkeling_2025/refs/heads/main/Images/nesk.png",
+      "formerteams": ["BRK e-Sport"],
+      "team": {
+        "id": "TEAM-004",
+        "name": "Liquid",
+        "teamLogoUrl": "https://raw.githubusercontent.com/StefDB6/Webontwikkeling_2025/refs/heads/main/Images/Liquid_Logo.png",
+        "foundedYear": 2000,
+        "manager": "André Kaneyasu",
+        "region": "South America"
+      }
+    },
+    {
+      "id": "010",
+      "IGN": "Lagonis",
+      "name": "Lorenzo Volpi",
+      "description": "Lorenzo 'Lagonis' Volpi (born January 10, 2002) is a Brazilian Rainbow Six Siege player who is currently playing as an in-game leader for Team Liquid.",
+      "age": 23, 
+      "isActive": true,
+      "birthDate": "2002-01-10",
+      "teamJoinDate": "2022-09-09",
+      "imageUrl": "https://raw.githubusercontent.com/StefDB6/Webontwikkeling_2025/refs/heads/main/Images/Lagonis.png",
+      "formerteams": ["oNe eSports", "Black Dragons"],
+      "team": {
+        "id": "TEAM-004",
+        "name": "Liquid",
+        "teamLogoUrl": "https://raw.githubusercontent.com/StefDB6/Webontwikkeling_2025/refs/heads/main/Images/Liquid_Logo.png",
+        "foundedYear": 2000,
+        "manager": "André Kaneyasu",
+        "region": "South America"
+      }
+    }
   ]
