@@ -12,7 +12,7 @@
       "team": {
         "id": "TEAM-001",
         "name": "DarkZero",
-        "teamLogoUrl": "https://raw.githubusercontent.com/StefDB6/Webontwikkeling_2025/refs/heads/main/Images/DZ_Logo.png",
+        "teamLogoUrl": "https://raw.githubusercontent.com/StefDB6/Webontwikkeling_2025/refs/heads/main/Images/DarkZero_Logo.png",
         "foundedYear": 2018,
         "founder": "Zach Matula",
         "region": "North America"
@@ -31,7 +31,7 @@
       "team": {
         "id": "TEAM-001",
         "name": "DarkZero",
-        "teamLogoUrl": "https://raw.githubusercontent.com/StefDB6/Webontwikkeling_2025/refs/heads/main/Images/DZ_Logo.png",
+        "teamLogoUrl": "https://raw.githubusercontent.com/StefDB6/Webontwikkeling_2025/refs/heads/main/Images/DarkZero_Logo.png",
         "foundedYear": 2018,
         "founder": "Zach Matula",
         "region": "North America"
@@ -50,22 +50,22 @@
         "team": {
           "id": "TEAM-001",
           "name": "DarkZero",
-          "teamLogoUrl": "https://raw.githubusercontent.com/StefDB6/Webontwikkeling_2025/refs/heads/main/Images/DZ_Logo.png",
+          "teamLogoUrl": "https://raw.githubusercontent.com/StefDB6/Webontwikkeling_2025/refs/heads/main/Images/DarkZero_Logo.png",
           "foundedYear": 2018,
           "founder": "Zach Matula",
           "region": "North America"
         }
-    }
+    },
     {
       "id": "004",
-      "IGN": "Kobelax",
-      "name": "Elian Rodriguez",
-      "description": "An indie rock band hailing from Austin, Texas, known for their gritty guitar riffs and raw, emotional lyrics.",
-      "age": 19, 
+      "IGN": "Soulz1",
+      "name": "Lucas Schinke",
+      "description": "Lucas 'soulz1' Schinke (born January 5, 2001) is a Brazilian Rainbow Six Siege player who is currently playing as a support for FaZe Clan.",
+      "age": 24, 
       "isActive": true,
-      "birthDate": "2005-08-15",
-      "imageUrl": "https://raw.githubusercontent.com/StefDB6/Webontwikkeling_2025/refs/heads/main/Images/Kobelax.png",
-      "formerteams": ["MKERS", "Envy"],
+      "birthDate": "2001-01-05",
+      "imageUrl": "https://raw.githubusercontent.com/StefDB6/Webontwikkeling_2025/refs/heads/main/Images/Soulz1.png",
+      "formerteams": ["MIBR", "Singularity", "eLevate"],
       "team": {
         "id": "TEAM-002",
         "name": "Faze Clan",
@@ -84,6 +84,25 @@
       "isActive": true,
       "birthDate": "2001-12-12",
       "imageUrl": "https://raw.githubusercontent.com/StefDB6/Webontwikkeling_2025/refs/heads/main/Images/Kobelax.png",
+      "formerteams": ["Magic Squad", "Escolinha do bubu", "Isurus"],
+      "team": {
+        "id": "TEAM-002",
+        "name": "Faze Clan",
+        "labelLogoUrl": "https://raw.githubusercontent.com/StefDB6/Webontwikkeling_2025/refs/heads/main/Images/Faze_Clan_Logo.png",
+        "foundedYear": 2011,
+        "manager": "Leando Portela",
+        "region": "South America"
+      }
+    },
+    {
+      "id": "006",
+      "IGN": "VITAKING",
+      "name": "Victor Santos",
+      "description": "Victor 'VITAKING' Santos (born December 12, 2001) is a Brazilian Rainbow Six Siege player who is currently playing as an in-game leader for FaZe Clan.",
+      "age": 23, 
+      "isActive": true,
+      "birthDate": "2001-12-12",
+      "imageUrl": "https://raw.githubusercontent.com/StefDB6/Webontwikkeling_2025/refs/heads/main/Images/VITAKING.png",
       "formerteams": ["MKERS", "Envy"],
       "team": {
         "id": "TEAM-002",

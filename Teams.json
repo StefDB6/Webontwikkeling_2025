@@ -2,7 +2,7 @@
     {
         "id": "TEAM-001",
         "name": "DarkZero",
-        "labelLogoUrl": "https://raw.githubusercontent.com/StefDB6/Webontwikkeling_2025/refs/heads/main/Images/DZ_Logo.png",
+        "teamLogoUrl": "https://raw.githubusercontent.com/StefDB6/Webontwikkeling_2025/refs/heads/main/Images/DarkZero_Logo.png",
         "foundedYear": 2018,
         "manager": "Zach Matula",
         "region": "North America"
@@ -18,7 +18,7 @@
     {
         "id": "TEAM-003",
         "name": "BDS",
-        "labelLogoUrl": "https://raw.githubusercontent.com/StefDB6/Webontwikkeling_2025/refs/heads/main/Images/BDS_Logo.png",
+        "teamLogoUrl": "https://raw.githubusercontent.com/StefDB6/Webontwikkeling_2025/refs/heads/main/Images/BDS_Logo.png",
         "foundedYear": 2019,
         "manager": "Alexia Chapus",
         "region": "Europe"
@@ -26,7 +26,7 @@
     {
         "id": "TEAM-004",
         "name": "Liquid",
-        "labelLogoUrl": "https://raw.githubusercontent.com/StefDB6/Webontwikkeling_2025/refs/heads/main/Images/Liquid_Logo.png",
+        "teamLogoUrl": "https://raw.githubusercontent.com/StefDB6/Webontwikkeling_2025/refs/heads/main/Images/Liquid_Logo.png",
         "foundedYear": 2000,
         "manager": "André Kaneyasu",
         "region": "South America"
