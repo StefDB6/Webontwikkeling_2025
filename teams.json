@@ -10,7 +10,7 @@
     {
         "id": "TEAM-002",
         "name": "Faze Clan",
-        "labelLogoUrl": "https://raw.githubusercontent.com/StefDB6/Webontwikkeling_2025/refs/heads/main/Images/Faze_Clan_Logo.png",
+        "teamLogoUrl": "https://raw.githubusercontent.com/StefDB6/Webontwikkeling_2025/refs/heads/main/Images/Faze_Clan_Logo.png",
         "foundedYear": 2011,
         "manager": "Leando Portela",
         "region": "South America"
